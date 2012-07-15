@@ -16,7 +16,7 @@ function smersenne(n) {
 	if (e === 2) {
 		console.log("El numero que has introducido "+n+" es un numero primo de Mersenne");
 		}
-	} else if (d != 2) {
+	} else if (z != 2) {
 	var f = 1;
 	function f1mersenne() {
 			var b = (n + f);
